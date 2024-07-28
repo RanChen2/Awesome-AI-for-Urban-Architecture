@@ -1,6 +1,29 @@
-# 城市与建筑中的杰出AI应用 | Awesome AI for Urban & Architecture
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanChen2/Awesome-AI-for-Urban-Architecture/main/assets/title-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanChen2/Awesome-AI-for-Urban-Architecture/main/assets/title-light.png">
+    <img src="https://raw.githubusercontent.com/RanChen2/Awesome-AI-for-Urban-Architecture/main/assets/title-light.png" alt="Title" width="300" height="auto">
+  </picture>
+  <br/>
+  <br/>
+</p>
 
-**语言 | Language**: [中文](README.zh.md) | [English](README.md)
+
+# Awesome AI for Urban & Architecture | 城市与建筑中的杰出AI应用
+
+<!-- 
+<p align="center">
+    <a href="https://github.com/yourusername/yourproject/actions"><img alt="Build Status" src="https://img.shields.io/github/workflow/status/yourusername/yourproject/CI"></a>
+    <a href="https://github.com/yourusername/yourproject/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/yourusername/yourproject.svg?color=blue"></a>
+    <a href="https://yourusername.github.io/yourproject/"><img alt="Documentation" src="https://img.shields.io/website?url=https://yourusername.github.io/yourproject/"></a>
+</p>  -->
+
+<h4 align="center">
+    <p>
+        <a href="https://github.com/RanChen2/Awesome-AI-for-Urban-Architecture/blob/main/README.md"> English |</a>
+        <a href="https://github.com/RanChen2/Awesome-AI-for-Urban-Architecture/blob/main/README.zh.md">| 简体中文 </a>
+    </p>
+</h4>
 
 欢迎来到“城市与建筑中的杰出AI应用”，这是一个旨在汇集城市和建筑设计领域中最先进的AI驱动工具和研究的精选仓库。本仓库专注于展示和整合探索AI技术与城市规划及建筑创新交叉的贡献。
 
