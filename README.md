@@ -20,12 +20,7 @@
     <a href="https://yourusername.github.io/yourproject/"><img alt="Documentation" src="https://img.shields.io/website?url=https://yourusername.github.io/yourproject/"></a>
 </p>  -->
 
-<h4 align="center">
-    <p>
-        <a href="https://github.com/RanChen2/Awesome-AI-for-Urban-Architecture/blob/main/README.md"> English |</a>
-        <a href="https://github.com/RanChen2/Awesome-AI-for-Urban-Architecture/blob/main/README.zh.md">| 简体中文 </a>
-    </p>
-</h4>
+**Language | 语言**: [English](README.md) | [中文](README.zh.md)
 
 Welcome to "Awesome AI for Urban & Architecture," a curated repository aimed at gathering state-of-the-art AI-driven tools and research in urban and architectural design. This repository focuses on showcasing and integrating contributions that explore the intersection of AI technology with urban planning and architectural innovation.
 
