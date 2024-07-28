@@ -8,17 +8,17 @@
   <br/>
 </p>
 
-# Awesome AI for Urban & Architecture | Outstanding AI Applications in Urban and Architectural Design
+# Awesome AI for Urban & Architecture | 城市与建筑中的杰出AI应用
 
-**Language | Language**: [English](README.md) | [中文](README.zh.md)
+**Language | 语言**: [English](README.md) | [中文](README.zh.md)
 
 Welcome to the "Awesome-AI-for-Urban-Architecture" repository, a platform dedicated to collecting and showcasing the most advanced AI-driven tools and research in urban and architectural design. This repository covers a broad range of topics from datasets to algorithmic research, focusing on integrating innovative cross-disciplinary contributions within AI4Design. Our goal is to inspire innovative thinking and advance technology. We warmly invite researchers, developers, and designers from around the globe to contribute their strengths to enrich and expand this resource library, striving to make it an authoritative collection of AI technology applications in urban and architectural contexts.
 
-## Generative Design | Generative Design
+## Generative Design | 生成设计
 
-### Layout Generation | Layout Generation
+### Layout Generation | 布局生成
 
-#### Floorplan Layout Generation
+#### Floorplan Layout Generation | 建筑平面布局生成
 
 This section focuses on algorithmic research for architectural layout generation, including papers from top conferences and journals, continually expanding:
 
@@ -39,32 +39,34 @@ This section focuses on algorithmic research for architectural layout generation
 | 2020 | Graph2Plan | SIGGRAPH/TOG | [Visit Repository](https://github.com/HanHan55/Graph2plan) | [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3386569.3392391) |
 | 2019 | Data-driven Interior Plan Generation for Residential Buildings | SIGGRAPH/TOG | [Visit Repository](https://github.com/unaisaralegui/rplanpy) (only data), [Another Repo](https://github.com/zzilch/RPLAN-Toolbox) (only data) | [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356556) |
 
+#### Urban Layout Generation | 城市布局生成
+
 > **This section, along with others, is under continuous development. We encourage contributions to help complete and refine these categories.**
 
-### Sensory and Analytical Technologies | Sensory and Analytical Technologies
+### Sensory and Analytical Technologies | 感知与分析技术
 
-#### Remote Sensing Applications
+#### Remote Sensing Applications | 遥感应用
 
-- Land Use Identification
-- Road Recognition
-- Land Cover Classification
+- Land Use Identification | 土地利用识别
+- Road Recognition | 道路识别
+- Land Cover Classification | 地物识别
 
 > **Preliminary framework subject to refinement. Your contributions and suggestions are welcome to help optimize our resource structure.**
 
-### Enhanced Interaction and Simulation | Enhanced Interaction and Simulation
+### Enhanced Interaction and Simulation | 增强交互与仿真
 
-#### Agent-Based Modeling
+#### Agent-Based Modeling | 基于代理的建模
 
-- Language Model Agents
+- Language Model Agents | 语言模型代理
 
-#### Interactive and Visualization Technologies
+#### Interactive and Visualization Technologies | 交互技术与可视化
 
-- Interactive Design Tools
-- Advanced Visualization Techniques
+- Interactive Design Tools | 交互式设计工具
+- Advanced Visualization Techniques | 先进的可视化技术
 
 > **Each section here is still in development, awaiting further contributions. Let's build this together!**
 
-### Contribution Guidelines | Contribution Guidelines
+### Contribution Guidelines | 贡献指南
 
 We encourage the community to contribute by adding new resources, updating existing entries, and providing suggestions to improve this repository. Here's how you can contribute:
 - **Fork this repository**: Make changes in your fork and submit a pull request.
@@ -73,12 +75,6 @@ We encourage the community to contribute by adding new resources, updating exist
 
 For more details, please see our [CONTRIBUTING.md](https://github.com/RanChen2/CONTRIBUTING.md).
 
-### License | License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RanChen2/LICENSE.md) file for details.
-
-For more details, please see our [CONTRIBUTING.md](https://github.com/705367787/CONTRIBUTING.md).
-
 ### License | 许可证
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/705367787/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RanChen2/LICENSE.md) file for details.
