@@ -8,29 +8,19 @@
   <br/>
 </p>
 
+# Awesome AI for Urban & Architecture | Outstanding AI Applications in Urban and Architectural Design
 
-# Awesome AI for Urban & Architecture | 城市与建筑中的杰出AI应用
+**Language | Language**: [English](README.md) | [中文](README.zh.md)
 
+Welcome to the "Awesome-AI-for-Urban-Architecture" repository, a platform dedicated to collecting and showcasing the most advanced AI-driven tools and research in urban and architectural design. This repository covers a broad range of topics from datasets to algorithmic research, focusing on integrating innovative cross-disciplinary contributions within AI4Design. Our goal is to inspire innovative thinking and advance technology. We warmly invite researchers, developers, and designers from around the globe to contribute their strengths to enrich and expand this resource library, striving to make it an authoritative collection of AI technology applications in urban and architectural contexts.
 
+## Generative Design | Generative Design
 
-<!-- 
-<p align="center">
-    <a href="https://github.com/yourusername/yourproject/actions"><img alt="Build Status" src="https://img.shields.io/github/workflow/status/yourusername/yourproject/CI"></a>
-    <a href="https://github.com/yourusername/yourproject/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/yourusername/yourproject.svg?color=blue"></a>
-    <a href="https://yourusername.github.io/yourproject/"><img alt="Documentation" src="https://img.shields.io/website?url=https://yourusername.github.io/yourproject/"></a>
-</p>  -->
+### Layout Generation | Layout Generation
 
-**Language | 语言**: [English](README.md) | [中文](README.zh.md)
+#### Floorplan Layout Generation
 
-Welcome to "Awesome AI for Urban & Architecture," a curated repository aimed at gathering state-of-the-art AI-driven tools and research in urban and architectural design. This repository focuses on showcasing and integrating contributions that explore the intersection of AI technology with urban planning and architectural innovation.
-
-## Generative Design | 生成设计
-
-### Layout Generation | 布局生成
-
-#### Floorplan Layout Generation | 平面布局生成
-
-This section is dedicated to studies and tools that utilize AI to automate and enhance the generation of architectural floorplans. Here are some notable contributions:
+This section focuses on algorithmic research for architectural layout generation, including papers from top conferences and journals, continually expanding:
 
 | Year | Project | Conference/Journal | GitHub Link | Paper Link |
 |------|---------|--------------------|-------------|------------|
@@ -49,12 +39,43 @@ This section is dedicated to studies and tools that utilize AI to automate and e
 | 2020 | Graph2Plan | SIGGRAPH/TOG | [Visit Repository](https://github.com/HanHan55/Graph2plan) | [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3386569.3392391) |
 | 2019 | Data-driven Interior Plan Generation for Residential Buildings | SIGGRAPH/TOG | [Visit Repository](https://github.com/unaisaralegui/rplanpy) (only data), [Another Repo](https://github.com/zzilch/RPLAN-Toolbox) (only data) | [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3355089.3356556) |
 
-### Contribution Guidelines | 贡献指南
+> **This section, along with others, is under continuous development. We encourage contributions to help complete and refine these categories.**
 
-We encourage the community to contribute by adding new resources, updating existing entries, and providing suggestions to improve this repository. To contribute:
+### Sensory and Analytical Technologies | Sensory and Analytical Technologies
+
+#### Remote Sensing Applications
+
+- Land Use Identification
+- Road Recognition
+- Land Cover Classification
+
+> **Preliminary framework subject to refinement. Your contributions and suggestions are welcome to help optimize our resource structure.**
+
+### Enhanced Interaction and Simulation | Enhanced Interaction and Simulation
+
+#### Agent-Based Modeling
+
+- Language Model Agents
+
+#### Interactive and Visualization Technologies
+
+- Interactive Design Tools
+- Advanced Visualization Techniques
+
+> **Each section here is still in development, awaiting further contributions. Let's build this together!**
+
+### Contribution Guidelines | Contribution Guidelines
+
+We encourage the community to contribute by adding new resources, updating existing entries, and providing suggestions to improve this repository. Here's how you can contribute:
 - **Fork this repository**: Make changes in your fork and submit a pull request.
-- **Discuss new ideas**: Open an issue to propose new entries or changes.
-- **Update documentation**: Help us keep entries accurate and up-to-date.
+- **Discuss new ideas**: Open an issue to suggest new entries or changes.
+- **Update documentation**: Help us keep the entries accurate and up-to-date.
+
+For more details, please see our [CONTRIBUTING.md](https://github.com/RanChen2/CONTRIBUTING.md).
+
+### License | License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RanChen2/LICENSE.md) file for details.
 
 For more details, please see our [CONTRIBUTING.md](https://github.com/705367787/CONTRIBUTING.md).
 
