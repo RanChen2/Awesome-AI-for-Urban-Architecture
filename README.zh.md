@@ -18,12 +18,7 @@
     <a href="https://yourusername.github.io/yourproject/"><img alt="Documentation" src="https://img.shields.io/website?url=https://yourusername.github.io/yourproject/"></a>
 </p>  -->
 
-<h4 align="center">
-    <p>
-        <a href="https://github.com/RanChen2/Awesome-AI-for-Urban-Architecture/blob/main/README.md"> English |</a>
-        <a href="https://github.com/RanChen2/Awesome-AI-for-Urban-Architecture/blob/main/README.zh.md">| 简体中文 </a>
-    </p>
-</h4>
+**Language | 语言**: [English](README.md) | [中文](README.zh.md)
 
 欢迎来到“城市与建筑中的杰出AI应用”，这是一个旨在汇集城市和建筑设计领域中最先进的AI驱动工具和研究的精选仓库。本仓库专注于展示和整合探索AI技术与城市规划及建筑创新交叉的贡献。
 
