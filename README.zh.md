@@ -8,7 +8,6 @@
   <br/>
 </p>
 
-
 # Awesome AI for Urban & Architecture | 城市与建筑中的杰出AI应用
 
 <!-- 
@@ -20,15 +19,15 @@
 
 **Language | 语言**: [English](README.md) | [中文](README.zh.md)
 
-欢迎来到“城市与建筑中的杰出AI应用”，这是一个旨在汇集城市和建筑设计领域中最先进的AI驱动工具和研究的精选仓库。本仓库专注于展示和整合探索AI技术与城市规划及建筑创新交叉的贡献。
+欢迎访问“Awesome-AI-for-Urban-Architecture”仓库，这是一个专门收集和展示城市与建筑设计领域中最先进AI驱动工具和研究的平台。我们涵盖了从数据集到算法研究的广泛话题，致力于整合探索AI在城市与建筑设计（AI4Design）领域的创新交叉贡献。本项目的目标是激发创新思维并推动技术的持续进步。我们热忱邀请全球的研究者、开发者和设计师加入我们，共同丰富和扩展这一资源库，努力将其打造成城市与建筑应用中AI技术的权威资料集合。
 
 ## 生成设计 | Generative Design
 
 ### 布局生成 | Layout Generation
 
-#### 平面布局生成 | Floorplan Layout Generation
+- 平面布局生成 | Floorplan Layout Generation
 
-本节专注于利用AI自动化和增强建筑平面图生成的研究和工具。以下是一些值得注意的贡献：
+本节专注于建筑布局生成的算法研究，包括收录于顶级会议和期刊的论文，持续扩展中：
 
 | 年份 | 项目名称 | 会议/期刊 | GitHub链接 | 论文链接 |
 |------|----------|-----------|------------|----------|
@@ -47,9 +46,16 @@
 | 2020 | Graph2Plan | SIGGRAPH/TOG | [代码](https://github.com/HanHan55/Graph2plan) | [阅读论文](https://dl.acm.org/doi/pdf/10.1145/3386569.3392391) |
 | 2019 | Data-driven Interior Plan Generation for Residential Buildings | SIGGRAPH/TOG | [代码](https://github.com/unaisaralegui/rplanpy) (仅数据), [另一个仓库](https://github.com/zzilch/RPLAN-Toolbox) (仅数据) | [阅读论文](https://dl.acm.org/doi/pdf/10.1145/3355089.3356556) |
 
+- Urban Layout Generation | 城市布局生成
 
+#### 3D Modeling and Visualization | 三维建模与可视化
+
+- Architectural Indoor 3D Modeling | 建筑室内三维建模
+- Cross-View Image Generation | 跨视角图像生成
 
 ### 感知与分析技术 | Sensory and Analytical Technologies
+
+> **以下为初步的分类框架，我们欢迎并鼓励社区成员参与完善和调整。请随时提出您的建议或增加新的内容，共同优化我们的资源结构。**
 
 #### 遥感应用 | Remote Sensing Applications
 
@@ -64,6 +70,8 @@
 - 对比学习做城市指标预测 | Contrastive Learning for Urban Indicators
 
 ### 增强交互与仿真 | Enhanced Interaction and Simulation
+
+> **以下为初步的分类框架，我们欢迎并鼓励社区成员参与完善和调整。请随时提出您的建议或增加新的内容，共同优化我们的资源结构。**
 
 #### 基于代理的建模 | Agent-Based Modeling
 
